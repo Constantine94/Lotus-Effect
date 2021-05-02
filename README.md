@@ -16,7 +16,8 @@ Already rewrited (still in progress):
   - window manager:
     - displaying windows,
     - cursor management,
-    - caching.
+    - caching,
+	- some artifacts...
 
 Run:
 
