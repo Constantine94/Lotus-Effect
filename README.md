@@ -13,11 +13,13 @@ Already rewrited (still in progress):
   - PS2 and RTC controllers,
   - graphics management,
   - task switching,
-  - window manager:
+  - window manager (WM):
     - displaying windows,
     - cursor management,
     - caching,
-	- some artifacts...
+	- windows movement.
+  - graphical user interface (GUI):
+    - in progress...
 
 Run:
 
