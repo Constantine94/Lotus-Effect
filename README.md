@@ -15,6 +15,7 @@ Already rewrited (still in progress):
   - PS2 and RTC controllers,
   - graphics management,
   - task switching,
+  - inter process communication (IPC),
   - window manager (WM):
     - displaying windows,
     - cursor management,
@@ -23,6 +24,7 @@ Already rewrited (still in progress):
   - graphical user interface (GUI):
   	- header,
 	- label,
+	- menu window (hide & show),
     {in progress...}
 
 Run:
