@@ -24,9 +24,10 @@ Already rewrited (still in progress):
   - graphical user interface (GUI):
   	- header,
 	- label,
-	- menu window (hide & show, always visible),
+	- menu window (show & hide),
+	- menu (point and click ready),
     {in progress...}
 
 Run:
 
-	qemu-system-x86_64 -boot a -fda build/cyjon.img -m 32 -smp 2 -rtc base=localtime
+	qemu-system-x86_64 -boot a -drive format=raw,file=cyjon.img,index=0,if=floppy -m 32 -smp 2 -rtc base=localtime
