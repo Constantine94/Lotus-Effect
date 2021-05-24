@@ -24,7 +24,7 @@ Already rewrited (still in progress):
   - graphical user interface (GUI):
   	- header,
 	- label,
-	- menu window (hide & show),
+	- menu window (hide & show, always visible),
     {in progress...}
 
 Run:
