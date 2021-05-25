@@ -26,7 +26,7 @@ Already rewrited (still in progress):
 	- label,
 	- menu window (show & hide),
 	- menu (point and click ready),
-    {in progress...}
+    -vfs {in progress...}
 
 Run:
 
