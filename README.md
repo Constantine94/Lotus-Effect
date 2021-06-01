@@ -26,8 +26,8 @@ Already rewrited (still in progress):
 	- label,
 	- menu window (show & hide),
 	- menu (point and click ready),
-	- vfs (touch, default symlinks (".", ".."), default directory structure),
-	- software (in progress... register "console" inside VFS)
+  - vfs (touch, default symlinks (".", ".."), default directory structure),
+  - software (in progress... register "console" inside VFS)
 
 Run:
 
