@@ -10,7 +10,7 @@ Already rewrited (still in progress):
 
   - initializacion of logical CPUs,
   - GDT, TSS and IDT,
-  - memory management,
+  - memory management (alloc, release),
   - paging,
   - PS2 and RTC controllers,
   - graphics management,
@@ -26,7 +26,7 @@ Already rewrited (still in progress):
 	- label,
 	- menu window (show & hide),
 	- menu (point and click ready),
-  - vfs (touch, default symlinks (".", ".."), default directory structure),
+  - vfs (touch, default symlinks (".", ".."), default directory structure), resolve path, append to file, find,
   - software (in progress... register "console" inside VFS)
 
 Run:
