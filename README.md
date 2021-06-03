@@ -4,7 +4,7 @@ Quick and small, multi-tasking operating system for 64-bit processors from the x
 
 Lotus Effect, is the same system as Cyjon, but rewritten into the C language.
 
-![screenshot](https://blackdev.org/shot/1511.png)
+![screenshot](https://blackdev.org/shot/1543.png)
 
 Already rewrited (still in progress):
 
@@ -27,7 +27,8 @@ Already rewrited (still in progress):
 	- menu window (show & hide),
 	- menu (point and click ready),
   - vfs (touch, default symlinks (".", ".."), default directory structure), resolve path, append to file, find,
-  - software (in progress... register "console" inside VFS)
+  - software (uploaded to VFS, and can be executed),
+  - services (in progress)
 
 Run:
 
