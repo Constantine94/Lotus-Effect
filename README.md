@@ -28,7 +28,8 @@ Already rewrited (still in progress):
 	- menu (point and click ready),
   - vfs (touch, default symlinks (".", ".."), default directory structure), resolve path, append to file, find,
   - software (uploaded to VFS, and can be executed),
-  - services (in progress)
+  - services (create window, flush window content),
+  - Bosu (in progress, interface library)...
 
 Run:
 
