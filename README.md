@@ -33,6 +33,7 @@ Already rewrited (still in progress):
   - stream in/out ready,
   - console (sequence migration),
   - Bosu (in progress, interface library)...
+  - Shell: cd - ready,
 
 Run:
 
