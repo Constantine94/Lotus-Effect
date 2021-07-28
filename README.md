@@ -4,7 +4,7 @@ Quick and small, multi-tasking operating system for 64-bit processors from the x
 
 Lotus Effect, is the same system as Cyjon, but rewritten into the C language.
 
-![screenshot](https://blackdev.org/shot/1641.png)
+![screenshot](https://blackdev.org/shot/1644.png)
 
 Already rewrited (still in progress):
 
@@ -33,7 +33,7 @@ Already rewrited (still in progress):
   - stream in/out ready,
   - console (sequence migration),
   - Bosu (in progress, interface library)...
-  - Shell: cd - ready,
+  - Shell: cd, hello - ready,
 
 Run:
 
