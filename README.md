@@ -34,6 +34,7 @@ Already rewrited (still in progress):
   - console (sequence migration),
   - Bosu (in progress, interface library)...
   - Shell: cd, hello - ready,
+  - transparency and icons,
 
 Run:
 
