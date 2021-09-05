@@ -2,39 +2,14 @@
 
 Quick and small, multi-tasking operating system for 64-bit processors from the x64 family.
 
-Lotus Effect, is the same system as Cyjon, but rewritten into the C language.
+Still in progress.
 
 ![screenshot](https://blackdev.org/shot/1684.png)
 
-Already rewrited (still in progress):
+External resources:
 
-  - initializacion of logical CPUs,
-  - GDT, TSS and IDT,
-  - memory management (alloc, release),
-  - paging,
-  - PS2 and RTC controllers,
-  - graphics management,
-  - task switching,
-  - inter process communication (IPC),
-  - window manager (WM):
-    - displaying windows,
-    - cursor management,
-    - caching,
-	- windows movement.
-  - graphical user interface (GUI):
-  	- header,
-	- label,
-	- menu window (show & hide),
-	- menu (point and click ready),
-	- taskbar ready (no clock right now),
-  - vfs (touch, default symlinks (".", ".."), default directory structure), resolve path, append to file, find,
-  - software (uploaded to VFS, and can be executed),
-  - services (create window, flush window content),
-  - stream in/out ready,
-  - console (sequence migration),
-  - Bosu (in progress, interface library)...
-  - Shell: cd, hello - ready,
-  - transparency and icons,
+  -  https://github.com/daniruiz/Flat-Remix icon theme,
+  -  https://www.deviantart.com/lavalon/art/Oxygen-Cursors-76614092 cursor theme.
 
 Run:
 
