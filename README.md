@@ -9,7 +9,8 @@ Still in progress.
 External resources:
 
   -  https://github.com/daniruiz/Flat-Remix icon theme,
-  -  https://www.deviantart.com/lavalon/art/Oxygen-Cursors-76614092 cursor theme.
+  -  https://www.deviantart.com/lavalon/art/Oxygen-Cursors-76614092 cursor theme,
+  -  https://addy-dclxvi.github.io/post/bitmap-fonts/ font bitmap.
 
 Run:
 
