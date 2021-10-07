@@ -14,4 +14,4 @@ External resources:
 
 Run:
 
-	qemu-system-x86_64 -boot a -drive format=raw,file=cyjon.img,index=0,if=floppy -m 32 -smp 2 -rtc base=localtime
+	qemu-system-x86_64 -enable-kvm -drive format=raw,file=cyjon.raw -m 32 -rtc base=localtime
