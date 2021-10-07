@@ -4,7 +4,7 @@ Quick and small, multi-tasking operating system for 64-bit processors from the x
 
 Still in progress.
 
-![screenshot](https://blackdev.org/shot/1684.png)
+![screenshot](https://blackdev.org/shot/1708.png)
 
 External resources:
 
