@@ -2,7 +2,7 @@
 
 Quick and small, multi-tasking operating system for 64-bit processors from the x64 family.
 
-Still in progress.
+Still in progress (right now: network).
 
 ![screenshot](https://blackdev.org/shot/1720.png)
 
@@ -15,4 +15,4 @@ External resources:
 
 Run:
 
-	qemu-system-x86_64 -enable-kvm -drive format=raw,file=cyjon.raw -m 32 -rtc base=localtime
+	qemu-system-x86_64 -enable-kvm -drive format=raw,file=cyjon.raw -m 32 -rtc base=localtime -netdev user,id=ethx -device e1000,netdev=ethx -serial file:serial.log
