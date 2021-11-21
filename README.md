@@ -4,6 +4,8 @@ Quick and small, multi-tasking operating system for 64-bit processors from the x
 
 Still in progress (right now: network).
 
+Added VirtualBox disk image.
+
 ![screenshot](https://blackdev.org/shot/1720.png)
 
 External resources:
