@@ -17,4 +17,4 @@ External resources:
 
 Run:
 
-	qemu-system-x86_64 -enable-kvm -drive format=raw,file=cyjon.raw -m 32 -rtc base=localtime -netdev user,id=ethx -device e1000,netdev=ethx -serial file:serial.log
+	qemu-system-x86_64 -enable-kvm -cpu host -smp 1 -m 64 -drive format=raw,file=build/cyjon.raw,index=0 -netdev user,id=ethx -device e1000,netdev=ethx -rtc base=localtime -serial file:serial.log
