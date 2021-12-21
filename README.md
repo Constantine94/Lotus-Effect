@@ -1,4 +1,4 @@
-# Lotus-Effect
+![screenshot](https://blackdev.org/logo.png)
 
 Quick and small, multi-tasking operating system for 64-bit processors from the x64 family.
 
